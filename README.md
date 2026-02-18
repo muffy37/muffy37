@@ -41,4 +41,4 @@ Activité PreMiD pour afficher sa présence sur Vikidia dans Discord. Développ�
 ## 🔗 Me retrouver
 
 [![GitHub](https://img.shields.io/badge/GitHub-muffy37-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muffy37)
-[![Discord](https://img.shields.io/badge/Discord-muffy37-181717?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.com/users/1424064908244422668)
+[![Discord](https://img.shields.io/badge/Discord-muffydu37-181717?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.com/users/1424064908244422668)
