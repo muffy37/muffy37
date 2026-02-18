@@ -10,7 +10,7 @@
 
 <br/>
 
----
+<img src="background.svg" width="100%" alt=""/>
 
 <img align="right" width="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
@@ -24,7 +24,7 @@ Je contribue à l'organisation **[@Les-dev-de-bot-vikidiens](https://github.com/
 
 <br clear="right"/>
 
----
+<img src="background.svg" width="100%" alt=""/>
 
 ## 🛠️ Stack & technologies
 
@@ -40,7 +40,7 @@ Je contribue à l'organisation **[@Les-dev-de-bot-vikidiens](https://github.com/
 
 </div>
 
----
+<img src="background.svg" width="100%" alt=""/>
 
 ## 🚀 Projets
 
@@ -63,7 +63,7 @@ Je contribue à l'organisation **[@Les-dev-de-bot-vikidiens](https://github.com/
 - 📡 Logging avancé avec file d'attente Discord et rotation de fichiers
 - 🔒 Auto-push sécurisé via systemd
 
----
+<img src="background.svg" width="100%" alt=""/>
 
 ## 📊 Stats GitHub
 
@@ -86,7 +86,7 @@ Je contribue à l'organisation **[@Les-dev-de-bot-vikidiens](https://github.com/
 
 </div>
 
----
+<img src="background.svg" width="100%" alt=""/>
 
 ## 🔗 Me retrouver
 
@@ -96,8 +96,6 @@ Je contribue à l'organisation **[@Les-dev-de-bot-vikidiens](https://github.com/
 [![Discord](https://img.shields.io/badge/Discord-muffydu37-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1424064908244422668)
 
 </div>
-
----
 
 <div align="center">
 
