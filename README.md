@@ -1,16 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Muffy&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Développeur%20web%20%7C%20Bot%20maker%20%7C%20Open%20source&descAlignY=58&descSize=18&fontFamily=Raleway)
+![background](background.gif)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=BB9AF7&center=true&vCenter=true&width=580&lines=Passionné+de+code+depuis+tout+petit+%F0%9F%92%BB;Frontend+%2F+Python+%2F+Bots+Vikidia+%F0%9F%A4%96;Contributeur+open+source+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=BB9AF7&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Muffy+%F0%9F%91%8B;Passionné+de+code+depuis+tout+petit+%F0%9F%92%BB;Frontend+%2F+Python+%2F+Bots+Vikidia+%F0%9F%A4%96;Contributeur+open+source+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
-
-<img src="background.svg" width="100%" alt=""/>
+---
 
 <img align="right" width="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
@@ -24,7 +20,7 @@ Je contribue à l'organisation **[@Les-dev-de-bot-vikidiens](https://github.com/
 
 <br clear="right"/>
 
-<img src="background.svg" width="100%" alt=""/>
+---
 
 ## 🛠️ Stack & technologies
 
@@ -40,7 +36,7 @@ Je contribue à l'organisation **[@Les-dev-de-bot-vikidiens](https://github.com/
 
 </div>
 
-<img src="background.svg" width="100%" alt=""/>
+---
 
 ## 🚀 Projets
 
@@ -63,7 +59,7 @@ Je contribue à l'organisation **[@Les-dev-de-bot-vikidiens](https://github.com/
 - 📡 Logging avancé avec file d'attente Discord et rotation de fichiers
 - 🔒 Auto-push sécurisé via systemd
 
-<img src="background.svg" width="100%" alt=""/>
+---
 
 ## 📊 Stats GitHub
 
@@ -86,7 +82,7 @@ Je contribue à l'organisation **[@Les-dev-de-bot-vikidiens](https://github.com/
 
 </div>
 
-<img src="background.svg" width="100%" alt=""/>
+---
 
 ## 🔗 Me retrouver
 
