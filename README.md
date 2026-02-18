@@ -1,18 +1,24 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Muffy+%F0%9F%91%8B;D%C3%A9veloppeur+web+%26+open+source;Bot+maker+%F0%9F%A4%96+%7C+Frontend+enjoyer)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Muffy&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Développeur%20web%20%7C%20Bot%20maker%20%7C%20Open%20source&descAlignY=58&descSize=18&fontFamily=Raleway)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=BB9AF7&center=true&vCenter=true&width=580&lines=Passionné+de+code+depuis+tout+petit+%F0%9F%92%BB;Frontend+%2F+Python+%2F+Bots+Vikidia+%F0%9F%A4%96;Contributeur+open+source+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 Qui suis-je ?
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-Développeur passionné par le web et l'open source, je passe mon temps à coder des trucs utiles — que ce soit des interfaces frontend soignées ou des bots qui tournent en arrière-plan pour garder des wikis propres. J'aime les projets qui ont un vrai impact sur une communauté, même petite.
+## 🧑‍💻 `whoami`
 
-Côté web, je suis à l'aise sur toute la stack frontend : HTML/CSS propre, JavaScript moderne (vanilla ou React), TypeScript quand il le faut. Côté scripting et automatisation, Python est mon outil de choix — je l'utilise notamment pour MuffyBot, mon bot de maintenance et d'anti-vandalisme sur Vikidia.
+Développeur passionné par le web et l'open source, je passe mon temps à coder des trucs utiles — des interfaces frontend soignées aux bots qui tournent 24/7 pour garder des wikis propres.
 
-Contributeur de l'organisation **[@Les-dev-de-bot-vikidiens](https://github.com/Les-dev-de-bot-vikidiens)**, je contribue aussi ponctuellement à des projets open source comme **PreMiD**.
+Côté web, je maîtrise toute la **stack frontend** : HTML/CSS, JavaScript moderne, TypeScript, React. Côté automatisation, **Python** est mon outil de choix.
+
+Je contribue à l'organisation **[@Les-dev-de-bot-vikidiens](https://github.com/Les-dev-de-bot-vikidiens)** et ponctuellement à des projets open source comme **PreMiD**.
+
+<br clear="right"/>
 
 ---
 
@@ -34,19 +40,24 @@ Contributeur de l'organisation **[@Les-dev-de-bot-vikidiens](https://github.com/
 
 ## 🚀 Projets
 
-### 🤖 [MuffyBot](https://github.com/Les-dev-de-bot-vikidiens/MuffyBot)
+<div align="center">
 
-Bot de maintenance et d'anti-vandalisme pour [Vikidia](https://fr.vikidia.org), l'encyclopédie libre pour les jeunes (éditions française et anglaise). Développé en Python avec une architecture modulaire basée sur Pywikibot.
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| 🤖 **[MuffyBot](https://github.com/Les-dev-de-bot-vikidiens/MuffyBot)** | Bot de maintenance & anti-vandalisme pour Vikidia (fr + en) | Python · Pywikibot · Mistral AI |
+| 🌐 **[Vikidia-Presence](https://github.com/muffy37/Vikidia-Presence)** | Activité PreMiD pour afficher sa présence sur Vikidia dans Discord | TypeScript · PreMiD |
 
-- 🔍 Détection automatique du vandalisme via règles dynamiques et IA (Mistral API)
-- 📊 Rapports quotidiens, hebdomadaires et mensuels envoyés sur Discord
+</div>
+
+### 🤖 MuffyBot — détails
+
+> Bot de maintenance et d'anti-vandalisme pour [Vikidia](https://fr.vikidia.org), l'encyclopédie libre pour les jeunes (éditions française et anglaise).
+
+- 🔍 Détection du vandalisme via règles dynamiques et IA (Mistral API)
+- 📊 Rapports quotidiens, hebdomadaires et mensuels sur Discord
 - 👋 Accueil des nouveaux utilisateurs, gestion des homonymies, correction de catégories
 - 📡 Logging avancé avec file d'attente Discord et rotation de fichiers
 - 🔒 Auto-push sécurisé via systemd
-
-### 🌐 [Vikidia-Presence](https://github.com/muffy37/Vikidia-Presence)
-
-Activité PreMiD pour afficher sa présence sur Vikidia dans Discord. Développé en TypeScript.
 
 ---
 
@@ -54,11 +65,22 @@ Activité PreMiD pour afficher sa présence sur Vikidia dans Discord. Développ�
 
 <div align="center">
 
-![muffy37's GitHub stats](https://github-readme-stats.vercel.app/api?username=muffy37&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=muffy37&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Stats GitHub" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muffy37&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langages" />
+    </td>
+  </tr>
+</table>
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=muffy37&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<br/>
 
 ![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=muffy37&theme=tokyonight&no-frame=true&margin-w=8&column=6)
+
+<br/>
 
 ![Graphe de contributions](https://github-readme-activity-graph.vercel.app/graph?username=muffy37&theme=tokyo-night&hide_border=true&area=true)
 
@@ -79,6 +101,6 @@ Activité PreMiD pour afficher sa présence sur Vikidia dans Discord. Développ�
 
 <div align="center">
 
-*"Code with purpose."*
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer)
 
 </div>
