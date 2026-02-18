@@ -2,13 +2,17 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Muffy&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Développeur%20web%20%7C%20Bot%20maker%20%7C%20Open%20source&descAlignY=58&descSize=18&fontFamily=Raleway)
 
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=BB9AF7&center=true&vCenter=true&width=580&lines=Passionné+de+code+depuis+tout+petit+%F0%9F%92%BB;Frontend+%2F+Python+%2F+Bots+Vikidia+%F0%9F%A4%96;Contributeur+open+source+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+<img align="right" width="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 ## 🧑‍💻 `whoami`
 
@@ -65,24 +69,20 @@ Je contribue à l'organisation **[@Les-dev-de-bot-vikidiens](https://github.com/
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=muffy37&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Stats GitHub" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muffy37&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langages" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muffy37&theme=tokyonight" alt="Résumé du profil" width="100%" />
 
 <br/>
 
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=muffy37&theme=tokyonight&no-frame=true&margin-w=8&column=6)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muffy37&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muffy37&theme=tokyonight" alt="Langages par repo" />
 
 <br/>
 
-![Graphe de contributions](https://github-readme-activity-graph.vercel.app/graph?username=muffy37&theme=tokyo-night&hide_border=true&area=true)
+<img src="https://streak-stats.demolab.com/?user=muffy37&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=fr" alt="Streak GitHub" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muffy37&theme=tokyo-night&hide_border=true&area=true" alt="Graphe de contributions" />
 
 </div>
 
