@@ -40,5 +40,5 @@ Activité PreMiD pour afficher sa présence sur Vikidia dans Discord. Développ�
 
 ## 🔗 Me retrouver
 
-[![Site](https://img.shields.io/badge/Site-luffy.wikicube.fr-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://luffy.wikicube.fr/)
 [![GitHub](https://img.shields.io/badge/GitHub-muffy37-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muffy37)
+[![Discord](https://img.shields.io/badge/GitHub-muffy37-181717?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.com/users/1424064908244422668)
